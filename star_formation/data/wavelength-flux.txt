@@ -1,0 +1,8 @@
+# Band      wavelength [microns]        flux density [Jy]
+J(2MASS)    1.2                         1590.00
+H(2MASS)    1.6                         1020.00
+K(2MASS)    2.2                          667.00
+IRAC1       3.6                          280.90
+IRAC2       4.5                          179.70
+IRAC3       5.8                          115.00
+IRAC4       8.0                           64.13
